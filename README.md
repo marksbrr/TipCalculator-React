@@ -1,6 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#<a href="https://affectionate-ride-833bb9.netlify.app/">Click here</a> to view it in the browser.
+- The entry point for the project is in App.tsx file
+- Within the project, you can find out the amount to pay per person, when receiving a bill
+- Also calculate the tip and total amount including the tip
 
 ## Available Scripts
 
@@ -8,16 +9,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open <a href="https://affectionate-ride-833bb9.netlify.app/">Click here</a> to view it in the browser.
-
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
