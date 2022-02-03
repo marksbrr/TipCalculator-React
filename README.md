@@ -1,6 +1,6 @@
 #
 
-![pageGIF](./public/GIF/form-validation.gif)
+![pageGIF](./public/GIF/tip-calculator.gif)
 
 <a href="https://affectionate-ride-833bb9.netlify.app/">Click here</a> to view it in the browser.
 - The entry point for the project is in App.tsx file
