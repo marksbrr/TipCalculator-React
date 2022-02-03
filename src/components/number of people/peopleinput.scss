@@ -1,0 +1,19 @@
+.people-input {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 6px;
+    border-radius: 6px;
+    border: 2px solid transparent;
+    background: url(../../images/icon-person.svg) no-repeat scroll 8px;
+    background-size: 10px;
+    background-color: hsl(189, 41%, 97%);
+    color: hsl(183, 97%, 23%);
+    font-weight: 700;
+    font-size: 1.25rem;
+
+    &:focus {
+        outline: none !important;
+        border: 2px solid hsl(172, 67%, 45%);
+    }
+}
